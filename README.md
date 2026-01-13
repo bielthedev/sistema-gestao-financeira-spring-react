@@ -1,3 +1,4 @@
+![Banner]()
 
 # 🚀 Sistema de Gestão Financeira – Spring Boot + React
 
