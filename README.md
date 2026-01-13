@@ -1,7 +1,7 @@
 
 # 🚀 Sistema de Gestão Financeira – Spring Boot + React
 
-Projeto Fullstack nível pleno/sênior com backend em Spring Boot, API REST,
+Projeto Fullstack com backend em Spring Boot, API REST,
 frontend em React e módulo de relatórios.
 
 ## Tecnologias
@@ -16,5 +16,4 @@ frontend em React e módulo de relatórios.
 - Cálculo de total
 - Dashboard com relatório financeiro
 
-## Autor
-Gabriel Felipe
+
